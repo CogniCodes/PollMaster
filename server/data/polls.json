@@ -1,0 +1,28 @@
+{
+  "9QKVM8": {
+    "roomCode": "9QKVM8",
+    "adminToken": "a181bfadb90807e09ec56ec63c78dc7c",
+    "question": "Which stack for the club project?",
+    "options": [
+      {
+        "id": "opt_1_zaony",
+        "text": "React + Node.js"
+      },
+      {
+        "id": "opt_2_pcyc9",
+        "text": "Vue + Go"
+      },
+      {
+        "id": "opt_3_6nyft",
+        "text": "Svelte + Rust"
+      }
+    ],
+    "state": "ENDED",
+    "votes": {
+      "user_1": "opt_1_zaony",
+      "user_2": "opt_3_6nyft"
+    },
+    "createdAt": "2026-09-04T05:44:21.963Z",
+    "updatedAt": "2026-09-04T05:44:29.148Z"
+  }
+}

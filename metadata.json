@@ -1,0 +1,6 @@
+{
+  "name": "PollMaster",
+  "description": "Real-time polling for teams, clubs, and communities. Create impactful polls, share a simple room code, and see responses come alive instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
